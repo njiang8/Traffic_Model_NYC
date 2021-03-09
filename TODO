@@ -1,0 +1,6 @@
+Big TODOs:
+
+1. Create bin (Node and RdID) for agents traveling to work outside the commuter region
+2. Change HashMaps to TreeMaps -- for ordering the maps -- needed for stopping and saving the simulation mid-run
+-- note that treemaps cannot be used for GeomPlanarGraphEdges -- only native java types
+3. Create an attribute class for the edges -- will replace hashmaps

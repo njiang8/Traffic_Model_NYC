@@ -1,0 +1,2 @@
+Use this test file for git fetch/merge/pull testing
+30Oct2019 testing the deletion of results.java to resolve merge DIRTY_WORKTREE failure
